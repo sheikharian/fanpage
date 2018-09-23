@@ -1,0 +1,27 @@
+body {
+        font-family: 'Open Sans', sans-serif;
+}
+#header1{
+    font-weight:bold;
+}
+.list{
+    background-color:#6fbdbd;
+}
+.aboutme{
+    padding:10px;
+    background-color:#6fbdbd;
+}
+.row{   
+    padding:5px;
+    background-color:#117a1e;
+    color:white;
+    font-size:20px;
+    display:flex;
+    justify-content:space-around;
+}
+p{
+    font-size:15px;
+}
+ul{
+    font-size:15px;
+}
