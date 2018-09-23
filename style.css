@@ -1,0 +1,36 @@
+h1{
+    font-size:60px;
+    font-family: 'Indie Flower', cursive;
+
+}
+.row{   
+
+    background-color:#117a1e;
+    color:white;
+    font-size:20px;
+    display:flex;
+    justify-content:space-around;
+    font-family: 'Open Sans', sans-serif;
+}
+.headshot{
+    width:15%;
+   border-radius:200%;
+}
+.mid{
+    background-color:#96ffa2;
+    color:teal;
+    align-items:center;
+    font-size:50px;
+    margin-top:5px;
+    margin-bottom:5px;
+}
+.aboutme{
+    display:flex;
+    justify-content:center;
+    background-color:#6fbdbd;
+}
+.post{
+    border:5px solid teal;
+    width:500px;
+    height:500px;
+}
