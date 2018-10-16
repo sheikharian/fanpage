@@ -1,3 +1,41 @@
 body{
+    background-image:url("https://static1.squarespace.com/static/548b1c40e4b0765ee0af6a25/t/57ab9528cd0f689a52298de9/1497650753505/?format=1500w");
 background-color:#3E3E3E;
+}
+h1 {
+    color:#FF0000;
+}
+a {
+    color:white;
+}
+
+#head{
+    display: flex;
+    justify-content: center;
+    background-color:#FF0000;
+}
+.header{
+    margin:40px;
+    font-size:30px;
+    padding:20px;
+    margin:10px;
+}
+
+a:hover{
+    color:black;
+}
+a:visited {
+    text-decoration: none;
+}
+#Title{
+    justify-content:center;
+}
+
+#signature{
+    width:300px;
+    height:200px;
+}
+.images {
+    display:flex;
+    justify-content:center;
 }
