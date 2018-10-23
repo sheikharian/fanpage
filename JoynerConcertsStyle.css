@@ -26,6 +26,17 @@ a {
     margin:10px;
 }
 
+#Concerts{
+    display:flex;
+    justify-content:center;
+    padding:30px;
+}
+
+.link{
+    margin:30px;
+    font-size:25px;
+}
+
 a:hover{
     color:black;
 }
@@ -44,4 +55,8 @@ a:visited {
 .images {
     display:flex;
     justify-content:center;
+}
+#image{
+width:70%;
+height:70%;
 }
