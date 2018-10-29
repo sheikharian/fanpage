@@ -6,7 +6,13 @@ p{
     color:white;
     font-size:20px;
 }
+#leftPane{
+    display:flex;
+justify-content:center;
+}
 h1 {
+    display:flex;
+    justify-content:center;
     color:#FF0000;
 }
 a {
@@ -25,7 +31,6 @@ a {
     padding:20px;
     margin:10px;
 }
-
 #Concerts{
     display:flex;
     justify-content:center;
@@ -37,26 +42,27 @@ a {
     font-size:25px;
 }
 
-a:hover{
+.link:hover{
+    background-color:#FF0000;
+}
+.header:link{
+    text-decoration:none;
+}
+.header:hover{
     color:black;
 }
-a:visited {
+.header:visited {
     text-decoration: none;
 }
 #Title{
     justify-content:center;
     margin-left:10px;
 }
-
-#signature{
-    width:300px;
-    height:200px;
-}
 .images {
     display:flex;
     justify-content:center;
 }
 #image{
-width:70%;
-height:70%;
+width:40%;
+height:40%;
 }
